@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Joseph-DelGiorgio (age: 20)
+- 👋 Hi, I’m @Joseph-DelGiorgio (age: 21)
 - 😎 I’m interested in working on any/all blockchain applications within the ethereum ecosystem.
-- 🌱 I’m currently learning to develop in JavaScript, Solidity, and Motoko (Internet Computer Protocol)
-- 📫 How to reach me ... feel free to reach me on email: jojodelg@gmail.com. You can also reach me on twitter and instagram @joedelgiorgio.eth
+- 🌱 I’m currently learning to develop in JavaScript and Solidity
+- 📫 How to reach me ... feel free to reach me on email: jojodelg@gmail.com. You can also reach me on instagram @joedelgiorgio.eth
 
 
 <!---
